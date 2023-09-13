@@ -2,7 +2,7 @@
 This repository contains my code and instructions for building and testing a stock trading system using an LSTM (Long Short-Term Memory) model. My goal is to predict stock prices and make trading decisions based on those predictions. This README provides a comprehensive guide to understanding and using my project.
 
 ## Data Analysis
-I began by familiarizing myself with the input data sp500_tickers_A-D_1min_1pppix.zip, which I found through the provided link.
+I began by familiarizing myself with the input data sp500_tickers_A-D_1min_1pppix.zip, which I have provided in the files above.
 
 I conducted data analysis as follows:
 
