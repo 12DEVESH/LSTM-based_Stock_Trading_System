@@ -2,7 +2,7 @@
 This repository contains my code and instructions for building and testing a stock trading system using an LSTM (Long Short-Term Memory) model. My goal is to predict stock prices and make trading decisions based on those predictions. This README provides a comprehensive guide to understanding and using my project.
 
 ## Data Analysis
-I began by familiarizing myself with the input data sp500_tickers_A-D_1min_1pppix.zip, which I have provided in the files above.
+I began by familiarizing myself with the input data [sp500_tickers_A-D_1min_1pppix.zip](https://iitbacin-my.sharepoint.com/:u:/g/personal/asethi_iitb_ac_in/ER8Evo2yfdhPmuaw1rjIOywBvN2WyjIYbYopcQeMTL8z7g?e=DvXNbs).
 
 I conducted data analysis as follows:
 
@@ -14,7 +14,7 @@ I conducted data analysis as follows:
 I explored at least two methods for normalizing the data. After experimenting, I selected one normalization method and provided a justification for my choice.
 ## Scenario Decisions
 I made several scenario-related decisions:
- *  I determined my preferred trading strategy, which is [insert your choice here], such as high-frequency trading, intra-day swing trading, inter-day trading, or long-term trading.
+ *  I determined my preferred trading strategy from high-frequency trading, intra-day swing trading, inter-day trading, or long-term trading.
  *  I assumed a buy-ask spread (inversely related to volume and directly related to price) and trading commissions based on quick market research. These assumptions are documented.
  *  I decided to do High Frequency Trading - traded a single stock.
 ## LSTM Model
