@@ -1,6 +1,7 @@
 # LSTM-based_Stock_Trading_System
 This repository contains my code and instructions for building and testing a stock trading system using an LSTM (Long Short-Term Memory) model. My goal is to predict stock prices and make trading decisions based on those predictions. This README provides a comprehensive guide to understanding and using my project.
 
+[Here is a short video explaination of assignment(not detailed)](https://drive.google.com/file/d/1XravWI2dznCcHDvXMUQjVoS_frlN-CeL/view?usp=sharing)
 ## Data Analysis
 I began by familiarizing myself with the input data [sp500_tickers_A-D_1min_1pppix.zip](https://iitbacin-my.sharepoint.com/:u:/g/personal/asethi_iitb_ac_in/ER8Evo2yfdhPmuaw1rjIOywBvN2WyjIYbYopcQeMTL8z7g?e=DvXNbs).
 
